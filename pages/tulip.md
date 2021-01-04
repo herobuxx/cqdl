@@ -4,7 +4,8 @@ title: Download ConquerOS for Redmi Note 6 Pro
 permalink: tulip.html
 ---
 -
-# Redmi Note 6 Pro
+
+![Redmi Note 6 Pro](https://raw.githubusercontent.com/ConquerOS/wiki/master/images/devices/)
 
 **Maintainer**: Alif Fathur  
 **Status**: Maitained  
