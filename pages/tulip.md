@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Download ConquerOS for redmi Note 6 Pro
+title: Download ConquerOS for Redmi Note 6 Pro
 permalink: tulip/
 redirect_from: tulip.html
 search: exclude
